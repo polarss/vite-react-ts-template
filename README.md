@@ -11,7 +11,7 @@ Clone the repo and run `yarn install`
 or Run command
 
 ```
-npx degit polarss/vite-react-ts-eslint-prettier project-name
+npx degit polarss/vite-react-ts-template project-name
 ```
 
 ## Start
